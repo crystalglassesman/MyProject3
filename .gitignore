@@ -2,6 +2,7 @@
 .vs/
 
 .vscode/
+*.code-workspace
 
 # Compiled Object files
 *.slo
